@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d1d9bd2-23f4-4f34-83e1-fb620c5e0fd2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1452">
+              <caret line="66" column="57" lean-forward="false" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SysLog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mysiteforme/admin/annotation/SysLog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qrzt.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql/qrzt.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="90" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysiteforme.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql/mysiteforme.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="1129" column="22" lean-forward="false" selection-start-line="1129" selection-start-column="18" selection-end-line="1129" selection-end-column="22" />
+              <folding>
+                <marker date="1529424333085" expanded="true" signature="0:297" ph="/* Navicat M... " />
+                <marker date="1529424333085" expanded="true" signature="426:461" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="463:2239" ph="CREATE TABLE... blog_article" />
+                <marker date="1529424333085" expanded="true" signature="2333:2638" ph="INSERT INTO `blog_article`... " />
+                <marker date="1529424333085" expanded="true" signature="2746:2786" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="2788:3102" ph="CREATE TABLE... blog_article_tags" />
+                <marker date="1529424333085" expanded="true" signature="3302:3337" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="3339:5008" ph="CREATE TABLE... blog_channel" />
+                <marker date="1529424333085" expanded="true" signature="5102:5301" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="5303:5499" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="5501:5700" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="5702:5900" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="5902:6101" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="6103:6297" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="6299:6498" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="6500:6699" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="6701:6909" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="6911:7129" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="7131:7343" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="7345:7548" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="7550:7755" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="7757:7966" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="7968:8182" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="8184:8394" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="8396:8604" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="8606:8816" ph="INSERT INTO `blog_channel`... " />
+                <marker date="1529424333085" expanded="true" signature="8919:8954" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="8956:10309" ph="CREATE TABLE... blog_comment" />
+                <marker date="1529424333085" expanded="true" signature="10501:10533" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="10535:11156" ph="CREATE TABLE... blog_tags" />
+                <marker date="1529424333085" expanded="true" signature="11344:11375" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="11377:11597" ph="CREATE TABLE... hat_area" />
+                <marker date="1529424333085" expanded="true" signature="11687:11749" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="11751:11813" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="11815:11877" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="11879:11941" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="11943:12005" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12007:12069" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12071:12134" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12136:12198" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12200:12263" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12265:12328" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12330:12393" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12395:12458" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12460:12523" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12525:12588" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12590:12653" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12655:12718" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12720:12783" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12785:12848" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12850:12913" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12915:12978" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="12980:13043" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13045:13108" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13110:13173" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13175:13238" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13240:13303" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13305:13368" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13370:13433" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13435:13498" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13500:13563" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13565:13628" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13630:13693" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13695:13758" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13760:13823" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13825:13888" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13890:13953" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="13955:14018" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14020:14083" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14085:14148" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14150:14213" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14215:14278" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14280:14343" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14345:14409" ph="INSERT INTO `hat_area`... " />
+                <marker date="1529424333085" expanded="true" signature="14518:14559" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="14561:15075" ph="CREATE TABLE... qrtz_blob_triggers" />
+                <marker date="1529424333085" expanded="true" signature="15278:15315" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="15317:15537" ph="CREATE TABLE... qrtz_calendars" />
+                <marker date="1529424333085" expanded="true" signature="15740:15781" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="15783:16297" ph="CREATE TABLE... qrtz_cron_triggers" />
+                <marker date="1529424333085" expanded="true" signature="16397:16514" ph="INSERT INTO `qrtz_cron_triggers`... " />
+                <marker date="1529424333085" expanded="true" signature="16516:16633" ph="INSERT INTO `qrtz_cron_triggers`... " />
+                <marker date="1529424333085" expanded="true" signature="16743:16785" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="16787:17803" ph="CREATE TABLE... qrtz_fired_triggers" />
+                <marker date="1529424333085" expanded="true" signature="18009:18048" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="18050:18667" ph="CREATE TABLE... qrtz_job_details" />
+                <marker date="1529424333085" expanded="true" signature="18765:21311" ph="INSERT INTO `qrtz_job_details`... " />
+                <marker date="1529424333085" expanded="true" signature="21313:23941" ph="INSERT INTO `qrtz_job_details`... " />
+                <marker date="1529424333085" expanded="true" signature="24042:24075" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="24077:24256" ph="CREATE TABLE... qrtz_locks" />
+                <marker date="1529424333085" expanded="true" signature="24348:24420" ph="INSERT INTO `qrtz_locks`... " />
+                <marker date="1529424333085" expanded="true" signature="24422:24496" ph="INSERT INTO `qrtz_locks`... " />
+                <marker date="1529424333085" expanded="true" signature="24611:24658" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="24660:24862" ph="CREATE TABLE... qrtz_paused_trigger_grps" />
+                <marker date="1529424333085" expanded="true" signature="25077:25120" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="25122:25405" ph="CREATE TABLE... qrtz_scheduler_state" />
+                <marker date="1529424333085" expanded="true" signature="25507:25631" ph="INSERT INTO `qrtz_scheduler_state`... " />
+                <marker date="1529424333085" expanded="true" signature="25742:25785" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="25787:26338" ph="CREATE TABLE... qrtz_simple_triggers" />
+                <marker date="1529424333085" expanded="true" signature="26550:26594" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="26596:27480" ph="CREATE TABLE... qrtz_simprop_triggers" />
+                <marker date="1529424333085" expanded="true" signature="27685:27721" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="27723:29507" ph="CREATE TABLE... qrtz_triggers" />
+                <marker date="1529424333085" expanded="true" signature="29602:32233" ph="INSERT INTO `qrtz_triggers`... " />
+                <marker date="1529424333085" expanded="true" signature="32235:34892" ph="INSERT INTO `qrtz_triggers`... " />
+                <marker date="1529424333085" expanded="true" signature="34994:35028" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="35030:36010" ph="CREATE TABLE... quartz_task" />
+                <marker date="1529424333085" expanded="true" signature="36103:36300" ph="INSERT INTO `quartz_task`... " />
+                <marker date="1529424333085" expanded="true" signature="36302:36495" ph="INSERT INTO `quartz_task`... " />
+                <marker date="1529424333085" expanded="true" signature="36601:36639" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="36641:37745" ph="CREATE TABLE... quartz_task_log" />
+                <marker date="1529424333085" expanded="true" signature="37939:37970" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="37972:39099" ph="CREATE TABLE... sys_dict" />
+                <marker date="1529424333085" expanded="true" signature="39189:39332" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="39334:39477" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="39479:39641" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="39643:39803" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="39805:39954" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="39956:40102" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="40104:40317" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="40319:40530" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="40532:40737" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="40739:40944" ph="INSERT INTO `sys_dict`... " />
+                <marker date="1529424333085" expanded="true" signature="41044:41076" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="41078:41687" ph="CREATE TABLE... sys_group" />
+                <marker date="1529424333085" expanded="true" signature="41879:41914" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="41916:42162" ph="CREATE TABLE... sys_group_ur" />
+                <marker date="1529424333085" expanded="true" signature="42352:42382" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="42384:44225" ph="CREATE TABLE... sys_log" />
+                <marker date="1529424333085" expanded="true" signature="44314:44895" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="44897:45519" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="45521:45950" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="45952:46386" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="46388:46821" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="46823:47782" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="47784:48215" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="48217:48648" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="48650:49084" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="49086:50045" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="50047:51005" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="51007:51894" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="51896:52856" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="52858:53814" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="53816:55774" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="55776:56210" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="56212:56642" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="56644:57079" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="57081:57515" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="57517:57917" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="57919:58542" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="58544:59500" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="59502:60439" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="60441:60871" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="60873:61307" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="61309:61739" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="61741:62175" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="62177:64023" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="64025:64459" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="64461:64891" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="64893:65323" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="65325:65760" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="65762:66196" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="66198:66648" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="66650:67082" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="67084:67514" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="67516:67949" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="67951:68383" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="68385:68813" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="68815:69257" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="69259:69875" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="69877:70300" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="70302:70730" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="70732:71159" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="71161:71604" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="71606:72030" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="72032:72455" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="72457:72882" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="72884:73304" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="73306:73741" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="73743:74167" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="74169:74593" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="74595:75020" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="75022:75449" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="75451:75878" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="75880:76322" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="76324:76749" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="76751:77173" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="77175:77595" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="77597:78017" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="78019:78444" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="78446:78870" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="78872:79296" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="79298:80229" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="80231:81277" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="81279:81703" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="81705:85143" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="85145:85567" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="85569:85998" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="86000:86433" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="86435:86868" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="86870:87295" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="87297:87720" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="87722:88148" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="88150:88571" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="88573:88998" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="89000:89423" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="89425:89852" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="89854:90281" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="90283:90726" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="90728:91153" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="91155:91578" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="91580:92005" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="92007:92432" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="92434:92859" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="92861:93284" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="93286:93901" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="93903:94331" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="94333:94760" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="94762:95205" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="95207:95631" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="95633:96056" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="96058:96484" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="96486:96909" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="96911:97334" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="97336:97759" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="97761:98214" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="98216:101264" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="101266:101716" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="101718:102148" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="102150:103345" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="103347:103771" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="103773:104201" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="104203:104647" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="104649:105266" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="105268:105692" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="105694:106123" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="106125:106553" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="106555:106999" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="107001:107424" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="107426:107851" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="107853:108279" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="108281:108705" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="108707:109135" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="109137:109561" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="109563:109992" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="109994:110422" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="110424:110848" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="110850:111280" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="111282:111710" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="111712:112135" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="112137:112566" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="112568:112992" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="112994:113423" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="113425:114050" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="114052:114485" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="114487:114924" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="114926:115362" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="115364:115816" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="115818:116252" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="116254:116840" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="116842:117465" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="117467:117901" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="117903:118338" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="118340:118772" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="118774:119208" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="119210:119662" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="119664:120098" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="120100:120860" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="120862:121295" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="121297:125701" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="125703:126134" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="126136:126874" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="126876:127310" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="127312:131788" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="131790:132222" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="132224:132656" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="132658:133089" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="133091:133524" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="133526:133927" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="133929:134552" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="134554:135138" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="135140:135763" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="135765:136282" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="136284:136684" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="136686:137267" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="137269:137892" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="137894:138401" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="138403:138803" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="138805:139428" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="139430:139862" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="139864:140294" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="140296:141051" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="141053:141485" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="141487:141919" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="141921:142716" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="142718:143150" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="143152:143934" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="143936:144368" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="144370:145117" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="145119:145551" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="145553:146301" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="146303:146735" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="146737:147489" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="147491:147923" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="147925:148355" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="148357:153120" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="153122:153552" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="153554:153954" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="153956:154579" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="154581:155001" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="155003:155433" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="155435:155867" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="155869:156666" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="156668:157100" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="157102:157890" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="157892:158324" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="158326:163160" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="163162:163592" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="163594:168500" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="168502:168932" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="168934:169334" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="169336:169959" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="169961:170381" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="170383:170811" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="170813:171255" ph="INSERT INTO `sys_log`... " />
+                <marker date="1529424333085" expanded="true" signature="171354:171385" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="171387:172343" ph="CREATE TABLE... sys_menu" />
+                <marker date="1529424333085" expanded="true" signature="172433:172596" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="172598:172804" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="172806:173013" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="173015:173222" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="173224:173441" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="173443:173648" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="173650:173857" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="173859:174067" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="174069:174276" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="174278:174443" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="174445:174652" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="174654:174866" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="174868:175080" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="175082:175246" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="175248:175459" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="175461:175676" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="175678:175858" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="175860:176042" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176044:176232" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176234:176416" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176418:176602" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176604:176790" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176792:176982" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="176984:177166" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="177168:177352" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="177354:177538" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="177540:177723" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="177725:177907" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="177909:178093" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="178095:178285" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="178287:178478" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="178480:178673" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="178675:178866" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="178868:179055" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179057:179239" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179241:179425" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179427:179613" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179615:179804" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179806:179997" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="179999:180192" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="180194:180385" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="180387:180576" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="180578:180769" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="180771:180964" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="180966:181159" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="181161:181349" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="181351:181541" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="181543:181735" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="181737:181928" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="181930:182122" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="182124:182315" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="182317:182509" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="182511:182702" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="182704:182888" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="182890:183078" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="183080:183286" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="183288:183474" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="183476:183664" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="183666:183856" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="183858:184065" ph="INSERT INTO `sys_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="184169:184205" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="184207:185027" ph="CREATE TABLE... sys_rescource" />
+                <marker date="1529424333085" expanded="true" signature="185122:185406" ph="INSERT INTO `sys_rescource`... " />
+                <marker date="1529424333085" expanded="true" signature="185408:185692" ph="INSERT INTO `sys_rescource`... " />
+                <marker date="1529424333085" expanded="true" signature="185694:185978" ph="INSERT INTO `sys_rescource`... " />
+                <marker date="1529424333085" expanded="true" signature="186077:186108" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="186110:186536" ph="CREATE TABLE... sys_role" />
+                <marker date="1529424333085" expanded="true" signature="186626:186733" ph="INSERT INTO `sys_role`... " />
+                <marker date="1529424333085" expanded="true" signature="186735:186844" ph="INSERT INTO `sys_role`... " />
+                <marker date="1529424333085" expanded="true" signature="186948:186984" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="186986:187155" ph="CREATE TABLE... sys_role_menu" />
+                <marker date="1529424333085" expanded="true" signature="187250:187295" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187297:187342" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187344:187389" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187391:187436" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187438:187483" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187485:187531" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187533:187579" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187581:187626" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187628:187673" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187675:187720" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187722:187767" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187769:187814" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187816:187861" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187863:187908" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187910:187955" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="187957:188002" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188004:188050" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188052:188098" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188100:188146" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188148:188194" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188196:188242" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188244:188290" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188292:188338" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188340:188386" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188388:188434" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188436:188482" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188484:188530" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188532:188578" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188580:188626" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188628:188674" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188676:188722" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188724:188770" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188772:188818" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188820:188866" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188868:188914" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188916:188962" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="188964:189010" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189012:189058" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189060:189106" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189108:189154" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189156:189202" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189204:189250" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189252:189298" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189300:189346" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189348:189394" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189396:189442" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189444:189490" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189492:189538" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189540:189586" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189588:189634" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189636:189682" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189684:189730" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189732:189778" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189780:189826" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189828:189874" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189876:189922" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189924:189970" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="189972:190018" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190020:190066" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190068:190114" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190116:190162" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190164:190210" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190212:190258" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190260:190306" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190308:190354" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190356:190402" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190404:190450" ph="INSERT INTO `sys_role_menu`... " />
+                <marker date="1529424333085" expanded="true" signature="190549:190580" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="190582:191783" ph="CREATE TABLE... sys_site" />
+                <marker date="1529424333085" expanded="true" signature="191873:192451" ph="INSERT INTO `sys_site`... " />
+                <marker date="1529424333085" expanded="true" signature="192550:192581" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="192583:193377" ph="CREATE TABLE... sys_user" />
+                <marker date="1529424333085" expanded="true" signature="193467:193755" ph="INSERT INTO `sys_user`... " />
+                <marker date="1529424333085" expanded="true" signature="193859:193895" ph="DROP TABLE I... " />
+                <marker date="1529424333085" expanded="true" signature="193897:194066" ph="CREATE TABLE... sys_user_role" />
+                <marker date="1529424333085" expanded="true" signature="194161:194206" ph="INSERT INTO `sys_user_role`... " />
+                <marker date="1529424333085" expanded="true" signature="194208:194253" ph="INSERT INTO `sys_user_role`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1999">
+              <caret line="184" column="39" lean-forward="false" selection-start-line="184" selection-start-column="39" selection-end-line="184" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mysiteforme/admin/annotation/SysLog.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mysiteforme" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mysiteforme" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysiteforme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysiteforme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysiteforme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysiteforme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysiteforme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MysiteformeApplication">
+    <configuration name="MysiteformeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mysiteforme.admin.MysiteformeApplication" />
+      <module name="demo" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d1d9bd2-23f4-4f34-83e1-fb620c5e0fd2" name="Default" comment="" />
+      <created>1529424518515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529424518515</updated>
+      <workItem from="1529424523944" duration="25000" />
+      <workItem from="1529424572223" duration="341000" />
+      <workItem from="1529424951560" duration="1652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2018000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21465296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" column="57" lean-forward="false" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysiteforme/admin/annotation/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="66" column="57" lean-forward="false" selection-start-line="66" selection-start-column="57" selection-end-line="66" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysiteforme/admin/annotation/SysLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/qrzt.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="90" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="190" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1999">
+          <caret line="184" column="39" lean-forward="false" selection-start-line="184" selection-start-column="39" selection-end-line="184" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/mysiteforme.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1129" column="22" lean-forward="false" selection-start-line="1129" selection-start-column="18" selection-end-line="1129" selection-end-column="22" />
+          <folding>
+            <marker date="1529424333085" expanded="true" signature="0:297" ph="/* Navicat M... " />
+            <marker date="1529424333085" expanded="true" signature="426:461" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="463:2239" ph="CREATE TABLE... blog_article" />
+            <marker date="1529424333085" expanded="true" signature="2333:2638" ph="INSERT INTO `blog_article`... " />
+            <marker date="1529424333085" expanded="true" signature="2746:2786" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="2788:3102" ph="CREATE TABLE... blog_article_tags" />
+            <marker date="1529424333085" expanded="true" signature="3302:3337" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="3339:5008" ph="CREATE TABLE... blog_channel" />
+            <marker date="1529424333085" expanded="true" signature="5102:5301" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="5303:5499" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="5501:5700" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="5702:5900" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="5902:6101" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="6103:6297" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="6299:6498" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="6500:6699" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="6701:6909" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="6911:7129" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="7131:7343" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="7345:7548" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="7550:7755" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="7757:7966" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="7968:8182" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="8184:8394" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="8396:8604" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="8606:8816" ph="INSERT INTO `blog_channel`... " />
+            <marker date="1529424333085" expanded="true" signature="8919:8954" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="8956:10309" ph="CREATE TABLE... blog_comment" />
+            <marker date="1529424333085" expanded="true" signature="10501:10533" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="10535:11156" ph="CREATE TABLE... blog_tags" />
+            <marker date="1529424333085" expanded="true" signature="11344:11375" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="11377:11597" ph="CREATE TABLE... hat_area" />
+            <marker date="1529424333085" expanded="true" signature="11687:11749" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="11751:11813" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="11815:11877" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="11879:11941" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="11943:12005" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12007:12069" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12071:12134" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12136:12198" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12200:12263" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12265:12328" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12330:12393" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12395:12458" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12460:12523" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12525:12588" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12590:12653" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12655:12718" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12720:12783" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12785:12848" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12850:12913" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12915:12978" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="12980:13043" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13045:13108" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13110:13173" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13175:13238" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13240:13303" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13305:13368" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13370:13433" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13435:13498" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13500:13563" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13565:13628" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13630:13693" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13695:13758" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13760:13823" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13825:13888" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13890:13953" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="13955:14018" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14020:14083" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14085:14148" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14150:14213" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14215:14278" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14280:14343" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14345:14409" ph="INSERT INTO `hat_area`... " />
+            <marker date="1529424333085" expanded="true" signature="14518:14559" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="14561:15075" ph="CREATE TABLE... qrtz_blob_triggers" />
+            <marker date="1529424333085" expanded="true" signature="15278:15315" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="15317:15537" ph="CREATE TABLE... qrtz_calendars" />
+            <marker date="1529424333085" expanded="true" signature="15740:15781" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="15783:16297" ph="CREATE TABLE... qrtz_cron_triggers" />
+            <marker date="1529424333085" expanded="true" signature="16397:16514" ph="INSERT INTO `qrtz_cron_triggers`... " />
+            <marker date="1529424333085" expanded="true" signature="16516:16633" ph="INSERT INTO `qrtz_cron_triggers`... " />
+            <marker date="1529424333085" expanded="true" signature="16743:16785" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="16787:17803" ph="CREATE TABLE... qrtz_fired_triggers" />
+            <marker date="1529424333085" expanded="true" signature="18009:18048" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="18050:18667" ph="CREATE TABLE... qrtz_job_details" />
+            <marker date="1529424333085" expanded="true" signature="18765:21311" ph="INSERT INTO `qrtz_job_details`... " />
+            <marker date="1529424333085" expanded="true" signature="21313:23941" ph="INSERT INTO `qrtz_job_details`... " />
+            <marker date="1529424333085" expanded="true" signature="24042:24075" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="24077:24256" ph="CREATE TABLE... qrtz_locks" />
+            <marker date="1529424333085" expanded="true" signature="24348:24420" ph="INSERT INTO `qrtz_locks`... " />
+            <marker date="1529424333085" expanded="true" signature="24422:24496" ph="INSERT INTO `qrtz_locks`... " />
+            <marker date="1529424333085" expanded="true" signature="24611:24658" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="24660:24862" ph="CREATE TABLE... qrtz_paused_trigger_grps" />
+            <marker date="1529424333085" expanded="true" signature="25077:25120" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="25122:25405" ph="CREATE TABLE... qrtz_scheduler_state" />
+            <marker date="1529424333085" expanded="true" signature="25507:25631" ph="INSERT INTO `qrtz_scheduler_state`... " />
+            <marker date="1529424333085" expanded="true" signature="25742:25785" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="25787:26338" ph="CREATE TABLE... qrtz_simple_triggers" />
+            <marker date="1529424333085" expanded="true" signature="26550:26594" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="26596:27480" ph="CREATE TABLE... qrtz_simprop_triggers" />
+            <marker date="1529424333085" expanded="true" signature="27685:27721" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="27723:29507" ph="CREATE TABLE... qrtz_triggers" />
+            <marker date="1529424333085" expanded="true" signature="29602:32233" ph="INSERT INTO `qrtz_triggers`... " />
+            <marker date="1529424333085" expanded="true" signature="32235:34892" ph="INSERT INTO `qrtz_triggers`... " />
+            <marker date="1529424333085" expanded="true" signature="34994:35028" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="35030:36010" ph="CREATE TABLE... quartz_task" />
+            <marker date="1529424333085" expanded="true" signature="36103:36300" ph="INSERT INTO `quartz_task`... " />
+            <marker date="1529424333085" expanded="true" signature="36302:36495" ph="INSERT INTO `quartz_task`... " />
+            <marker date="1529424333085" expanded="true" signature="36601:36639" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="36641:37745" ph="CREATE TABLE... quartz_task_log" />
+            <marker date="1529424333085" expanded="true" signature="37939:37970" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="37972:39099" ph="CREATE TABLE... sys_dict" />
+            <marker date="1529424333085" expanded="true" signature="39189:39332" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="39334:39477" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="39479:39641" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="39643:39803" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="39805:39954" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="39956:40102" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="40104:40317" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="40319:40530" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="40532:40737" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="40739:40944" ph="INSERT INTO `sys_dict`... " />
+            <marker date="1529424333085" expanded="true" signature="41044:41076" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="41078:41687" ph="CREATE TABLE... sys_group" />
+            <marker date="1529424333085" expanded="true" signature="41879:41914" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="41916:42162" ph="CREATE TABLE... sys_group_ur" />
+            <marker date="1529424333085" expanded="true" signature="42352:42382" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="42384:44225" ph="CREATE TABLE... sys_log" />
+            <marker date="1529424333085" expanded="true" signature="44314:44895" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="44897:45519" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="45521:45950" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="45952:46386" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="46388:46821" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="46823:47782" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="47784:48215" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="48217:48648" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="48650:49084" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="49086:50045" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="50047:51005" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="51007:51894" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="51896:52856" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="52858:53814" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="53816:55774" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="55776:56210" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="56212:56642" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="56644:57079" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="57081:57515" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="57517:57917" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="57919:58542" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="58544:59500" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="59502:60439" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="60441:60871" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="60873:61307" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="61309:61739" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="61741:62175" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="62177:64023" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="64025:64459" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="64461:64891" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="64893:65323" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="65325:65760" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="65762:66196" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="66198:66648" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="66650:67082" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="67084:67514" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="67516:67949" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="67951:68383" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="68385:68813" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="68815:69257" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="69259:69875" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="69877:70300" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="70302:70730" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="70732:71159" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="71161:71604" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="71606:72030" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="72032:72455" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="72457:72882" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="72884:73304" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="73306:73741" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="73743:74167" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="74169:74593" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="74595:75020" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="75022:75449" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="75451:75878" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="75880:76322" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="76324:76749" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="76751:77173" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="77175:77595" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="77597:78017" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="78019:78444" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="78446:78870" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="78872:79296" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="79298:80229" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="80231:81277" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="81279:81703" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="81705:85143" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="85145:85567" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="85569:85998" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="86000:86433" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="86435:86868" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="86870:87295" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="87297:87720" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="87722:88148" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="88150:88571" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="88573:88998" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="89000:89423" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="89425:89852" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="89854:90281" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="90283:90726" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="90728:91153" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="91155:91578" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="91580:92005" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="92007:92432" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="92434:92859" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="92861:93284" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="93286:93901" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="93903:94331" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="94333:94760" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="94762:95205" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="95207:95631" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="95633:96056" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="96058:96484" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="96486:96909" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="96911:97334" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="97336:97759" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="97761:98214" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="98216:101264" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="101266:101716" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="101718:102148" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="102150:103345" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="103347:103771" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="103773:104201" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="104203:104647" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="104649:105266" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="105268:105692" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="105694:106123" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="106125:106553" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="106555:106999" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="107001:107424" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="107426:107851" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="107853:108279" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="108281:108705" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="108707:109135" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="109137:109561" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="109563:109992" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="109994:110422" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="110424:110848" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="110850:111280" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="111282:111710" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="111712:112135" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="112137:112566" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="112568:112992" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="112994:113423" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="113425:114050" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="114052:114485" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="114487:114924" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="114926:115362" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="115364:115816" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="115818:116252" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="116254:116840" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="116842:117465" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="117467:117901" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="117903:118338" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="118340:118772" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="118774:119208" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="119210:119662" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="119664:120098" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="120100:120860" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="120862:121295" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="121297:125701" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="125703:126134" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="126136:126874" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="126876:127310" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="127312:131788" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="131790:132222" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="132224:132656" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="132658:133089" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="133091:133524" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="133526:133927" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="133929:134552" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="134554:135138" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="135140:135763" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="135765:136282" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="136284:136684" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="136686:137267" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="137269:137892" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="137894:138401" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="138403:138803" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="138805:139428" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="139430:139862" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="139864:140294" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="140296:141051" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="141053:141485" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="141487:141919" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="141921:142716" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="142718:143150" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="143152:143934" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="143936:144368" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="144370:145117" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="145119:145551" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="145553:146301" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="146303:146735" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="146737:147489" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="147491:147923" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="147925:148355" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="148357:153120" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="153122:153552" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="153554:153954" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="153956:154579" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="154581:155001" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="155003:155433" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="155435:155867" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="155869:156666" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="156668:157100" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="157102:157890" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="157892:158324" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="158326:163160" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="163162:163592" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="163594:168500" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="168502:168932" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="168934:169334" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="169336:169959" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="169961:170381" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="170383:170811" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="170813:171255" ph="INSERT INTO `sys_log`... " />
+            <marker date="1529424333085" expanded="true" signature="171354:171385" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="171387:172343" ph="CREATE TABLE... sys_menu" />
+            <marker date="1529424333085" expanded="true" signature="172433:172596" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="172598:172804" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="172806:173013" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="173015:173222" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="173224:173441" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="173443:173648" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="173650:173857" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="173859:174067" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="174069:174276" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="174278:174443" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="174445:174652" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="174654:174866" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="174868:175080" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="175082:175246" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="175248:175459" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="175461:175676" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="175678:175858" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="175860:176042" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176044:176232" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176234:176416" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176418:176602" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176604:176790" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176792:176982" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="176984:177166" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="177168:177352" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="177354:177538" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="177540:177723" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="177725:177907" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="177909:178093" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="178095:178285" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="178287:178478" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="178480:178673" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="178675:178866" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="178868:179055" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179057:179239" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179241:179425" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179427:179613" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179615:179804" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179806:179997" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="179999:180192" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="180194:180385" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="180387:180576" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="180578:180769" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="180771:180964" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="180966:181159" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="181161:181349" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="181351:181541" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="181543:181735" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="181737:181928" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="181930:182122" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="182124:182315" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="182317:182509" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="182511:182702" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="182704:182888" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="182890:183078" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="183080:183286" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="183288:183474" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="183476:183664" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="183666:183856" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="183858:184065" ph="INSERT INTO `sys_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="184169:184205" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="184207:185027" ph="CREATE TABLE... sys_rescource" />
+            <marker date="1529424333085" expanded="true" signature="185122:185406" ph="INSERT INTO `sys_rescource`... " />
+            <marker date="1529424333085" expanded="true" signature="185408:185692" ph="INSERT INTO `sys_rescource`... " />
+            <marker date="1529424333085" expanded="true" signature="185694:185978" ph="INSERT INTO `sys_rescource`... " />
+            <marker date="1529424333085" expanded="true" signature="186077:186108" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="186110:186536" ph="CREATE TABLE... sys_role" />
+            <marker date="1529424333085" expanded="true" signature="186626:186733" ph="INSERT INTO `sys_role`... " />
+            <marker date="1529424333085" expanded="true" signature="186735:186844" ph="INSERT INTO `sys_role`... " />
+            <marker date="1529424333085" expanded="true" signature="186948:186984" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="186986:187155" ph="CREATE TABLE... sys_role_menu" />
+            <marker date="1529424333085" expanded="true" signature="187250:187295" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187297:187342" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187344:187389" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187391:187436" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187438:187483" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187485:187531" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187533:187579" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187581:187626" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187628:187673" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187675:187720" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187722:187767" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187769:187814" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187816:187861" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187863:187908" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187910:187955" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="187957:188002" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188004:188050" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188052:188098" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188100:188146" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188148:188194" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188196:188242" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188244:188290" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188292:188338" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188340:188386" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188388:188434" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188436:188482" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188484:188530" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188532:188578" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188580:188626" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188628:188674" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188676:188722" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188724:188770" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188772:188818" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188820:188866" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188868:188914" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188916:188962" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="188964:189010" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189012:189058" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189060:189106" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189108:189154" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189156:189202" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189204:189250" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189252:189298" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189300:189346" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189348:189394" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189396:189442" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189444:189490" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189492:189538" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189540:189586" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189588:189634" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189636:189682" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189684:189730" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189732:189778" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189780:189826" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189828:189874" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189876:189922" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189924:189970" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="189972:190018" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190020:190066" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190068:190114" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190116:190162" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190164:190210" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190212:190258" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190260:190306" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190308:190354" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190356:190402" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190404:190450" ph="INSERT INTO `sys_role_menu`... " />
+            <marker date="1529424333085" expanded="true" signature="190549:190580" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="190582:191783" ph="CREATE TABLE... sys_site" />
+            <marker date="1529424333085" expanded="true" signature="191873:192451" ph="INSERT INTO `sys_site`... " />
+            <marker date="1529424333085" expanded="true" signature="192550:192581" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="192583:193377" ph="CREATE TABLE... sys_user" />
+            <marker date="1529424333085" expanded="true" signature="193467:193755" ph="INSERT INTO `sys_user`... " />
+            <marker date="1529424333085" expanded="true" signature="193859:193895" ph="DROP TABLE I... " />
+            <marker date="1529424333085" expanded="true" signature="193897:194066" ph="CREATE TABLE... sys_user_role" />
+            <marker date="1529424333085" expanded="true" signature="194161:194206" ph="INSERT INTO `sys_user_role`... " />
+            <marker date="1529424333085" expanded="true" signature="194208:194253" ph="INSERT INTO `sys_user_role`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6.4 (C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
